@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sandesh Ashok Shingankar</span></h1>
-<h3 align="center">B.E. IT Student | Data Science • Web Development • App Development</h3>
+<h3 align="center">B.E. IT Student | UI/UX design •Data Science • Web Development • App Development</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeshs-shingankar" target="_blank">
