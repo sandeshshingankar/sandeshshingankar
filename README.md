@@ -54,14 +54,14 @@
 const sandesh = {
   name     : "Sandesh Ashok Shingankar",
   degree   : "B.E. Information Technology",
-  location : "📍 Nashik, Maharashtra, India 🇮🇳",
+  location : "📍 Pune, Maharashtra, India 🇮🇳",
   focus    : [
                "🎨 UI/UX Design",
                "📊 Data Science",
                "🌐 Web Development",
                "📱 App Development"
              ],
-  learning : ["Python", "React", "Kotlin", "ML"],
+  learning : ["Python", "React", "Kotlin", "DS"],
   motto    : "Learning by doing, growing with purpose 🚀",
   status   : "✅ Open to internships & collaborations",
   funFact  : "I debug code the same way I debug life 😄"
@@ -82,7 +82,7 @@ const sandesh = {
 
 ### 〔 💻 Languages 〕
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,c,cpp&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java&theme=dark&perline=7" />
 
 <br/>
 
@@ -108,7 +108,7 @@ const sandesh = {
 
 ### 〔 🗄️ Databases 〕
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=7" />
 
 <br/>
 
